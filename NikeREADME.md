@@ -35,8 +35,6 @@ Nike-Sales-Analysis/
 │
 ├── Nike Sales Analysis Fpro.pbit   # Power BI Template File
 ├── README.md                       # Project documentation
-└── (Optional) /screenshots         # Dashboard visuals (if available)
-```
 
 ---
 
@@ -53,13 +51,9 @@ Nike-Sales-Analysis/
 ## 📌 How to Use
 
 1. **Clone or download** the repository:
-   ```bash
-   git clone https://github.com/yourusername/nike-sales-analysis.git
+https://github.com/Rutuja-832001/Power-BI_Dashboard_Projects.git
    ```
-
-2. **Open the `.pbit` file** with Power BI Desktop.
-
-3. **Connect your dataset** to begin exploration and dashboard use.
+2. **Open the `Nike Sales Analysis Fpro.pbit file** with Power BI Desktop.
 
 ---
 
