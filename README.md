@@ -2,7 +2,7 @@
 
 This project is an interactive Power BI dashboard template designed to analyze and visualize key HR metrics, providing strategic insights into workforce trends, employee demographics, and organizational performance.
 
-Screenshot Of HR Dashboard.png
+<img width="1351" height="732" alt="Screenshot Of HR Dashboard" src="https://github.com/user-attachments/assets/7ce8262c-de1e-41b7-be13-63182b3a486b" />
 ---
 
 ## 📊 Project Overview
