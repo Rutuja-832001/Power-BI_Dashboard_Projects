@@ -3,6 +3,7 @@
 This project presents an interactive Power BI dashboard template focused on analyzing Nike's sales performance across products, regions, and time dimensions. The dashboard enables data-driven decision-making through clear and dynamic visual insights.
 
 ---
+<img width="1427" height="798" alt="Screenshot Of Nike Dashboard" src="https://github.com/user-attachments/assets/47de30f8-8a1c-4b30-98ec-22b825684ff6" />
 
 ## 📊 Project Overview
 
