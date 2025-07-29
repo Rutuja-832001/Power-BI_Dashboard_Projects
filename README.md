@@ -45,8 +45,7 @@ The goal is to support data-driven HR decisions and workforce planning strategie
 ## 📌 How to Use
 
 1. **Download or clone** this repository:
-   ```bash
-   git clone https://github.com/yourusername/hr-data-analysis.git
+https://github.com/Rutuja-832001/Power-BI_Dashboard_Projects.git
 Open the .pbit file using Power BI Desktop.
 
 Connect to HR dataset when prompted (ensure it matches the expected structure).
